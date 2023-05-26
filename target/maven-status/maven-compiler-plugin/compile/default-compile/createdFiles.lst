@@ -1,0 +1,17 @@
+funbot\bot\UpdateProcessing.class
+funbot\bot\Utils.class
+funbot\db\Db.class
+funbot\bot\Main.class
+funbot\bot\MessageSender.class
+funbot\db\UserInDb.class
+funbot\obj\Context.class
+funbot\bot\Bot.class
+funbot\obj\State$StateBuilder.class
+funbot\obj\User.class
+funbot\db\ImgDb.class
+funbot\db\UserDb.class
+funbot\bot\UpdateProcessing$1.class
+funbot\bot\BotConfig.class
+funbot\obj\AccessLvl.class
+funbot\obj\ContentType.class
+funbot\obj\State.class
